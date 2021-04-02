@@ -1,0 +1,23 @@
+{
+  "name": "hym",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hym1227/hym.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hym1227/hym/issues"
+  },
+  "homepage": "https://github.com/hym1227/hym#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
